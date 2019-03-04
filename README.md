@@ -25,7 +25,7 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 
 ### ← About the project
 1. Group members:
-Zechen Wang, Weihan Chen, Zhehao Guo, Junping Wang, Zixuan Dong
+- Zechen Wang, Weihan Chen, Zhehao Guo, Junping Wang, Zixuan Dong
 
 2. Some files
 - FinalModel.py
